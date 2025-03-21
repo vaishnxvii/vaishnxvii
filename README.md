@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
 🔭 I'm currently working on advanced machine learning models for predictive analysis.<br>👯 I'm looking to collaborate on data science and NLP projects that solve real-world problems.<br>🤝 I'm looking for help with optimizing deep learning models and cloud structure.<br>🌱 I'm currently learning TensorFlow, Hugging Face, and advanced SQL optimization techniques.<br>💬 Ask me about Python data analysis, machine learning algorithms, or creating interactive dashboards with Tableau.<br>⚡ Fun fact: I spend hours optimizing algorithms to save milliseconds of processing time, but still waste 30 minutes deciding what to eat for lunch.
